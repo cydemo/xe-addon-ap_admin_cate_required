@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon version="0.2">
+
+	<title xml:lang="ko">관리자도 분류 선택 필수 애드온</title>
+	<description xml:lang="ko">게시판 글쓰기에서 관리자에게도 분류 선택을 필수로 바꿔주는 애드온</description>
+	<version>0.1.1</version>
+	<date>2017-08-04</date>
+
+	<author email_address="cydemo@gmail.com" link="https://www.xetown.com/">
+		<name xml:lang="ko">cydemo</name>
+	</author>
+
+</addon>
